@@ -18,7 +18,9 @@ body{
     
     color: #ebebeb;
     background: #777;
-    width: 495px;
+    width: 465px;
+    margin:  15px;
+    height: 125px;
 
 }
 
@@ -28,16 +30,51 @@ body{
 
 }
 
-.width_70
+.insideArticle{
+    width:435px;
+    height: 35px;
+    margin-left: 15px;
+}
+
+#marginHeader{
+    margin-top: 15px;
+    margin-bottom: 5px;
+
+}
+.bar
 { 
-    width: 1500px;
+    width: 900px;
+    height: 60px;
+    margin: 0 30px 0 30px;
+
 
 }
 
 .left {
    float: left;
+   margin-left: 30px;
+   
 }
 
 aside{
     float: right;
+    margin-right: 30px;
+    width: 400px;
+    height: 175px;
+}
+
+section{
+    height: 175px;
+    width: 495px;
+}
+.inline{
+    display: inline;
+}
+
+.marginBottom{
+    margin-bottom: 5px;
+
+}
+.marginTop{
+    margin-top: 185px;
 }
