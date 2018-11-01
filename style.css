@@ -1,0 +1,43 @@
+body{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.background_ebebeb {
+    
+    background: #ebebeb;
+
+}
+
+#article {
+    
+    color: #ebebeb;
+    background: #777;
+    width: 495px;
+
+}
+
+.color_777 { 
+
+    color: #777;
+
+}
+
+.width_70
+{ 
+    width: 1500px;
+
+}
+
+.left {
+   float: left;
+}
+
+aside{
+    float: right;
+}
